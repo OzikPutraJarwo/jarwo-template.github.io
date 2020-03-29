@@ -1,2 +1,5 @@
-var positif;
-positif = [xxx, yyy, zzz];
+let variable={
+  1:0,
+  2:0,
+  3:0
+}
