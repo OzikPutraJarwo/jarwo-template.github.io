@@ -1,1 +1,2 @@
-positif = xxx;
+var positif;
+positif = [xxx, yyy, zzz];
